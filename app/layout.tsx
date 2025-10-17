@@ -8,6 +8,9 @@ export const metadata: Metadata = {
   title: "Skybound Travels",
   description: "Skybound Travels",
   generator: "Skybound Travels",
+  icons: {
+    icon: "/international-departures.png",
+  },
 };
 
 export default function RootLayout({
