@@ -11,7 +11,7 @@ export function CTA() {
 
   const handleWhatsApp = () => {
     window.open(
-      "https://wa.me/9686611250?text=Hi! I'd like to book a flight with Skybound Airlines.",
+      "https://wa.me/9686611250?text=Hi! I'd like to book a flight with Skybound Travels.",
       "_blank"
     );
   };
@@ -38,7 +38,7 @@ export function CTA() {
 
           <p className="text-xl md:text-2xl text-blue-100 mb-12 leading-relaxed">
             Book your flights today and get ready to explore the world with
-            Skybound Airlines.
+            Skybound Travels.
             <br />
             <span className="font-semibold text-white">
               Contact us now for the best deals!

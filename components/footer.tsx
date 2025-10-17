@@ -161,7 +161,7 @@ export function Footer() {
           <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
             <div>
               <p className="text-gray-600">
-                &copy; 2025 Skybound Airlines. All rights reserved. IATA
+                &copy; 2025 Skybound Travels. All rights reserved. IATA
                 Certified Travel Agency.
               </p>
             </div>

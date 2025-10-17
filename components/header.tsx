@@ -18,7 +18,7 @@ export function Header() {
 
   const handleWhatsApp = () => {
     window.open(
-      "https://wa.me/9686611250?text=Hi! I'd like to book a flight with Skybound Airlines.",
+      "https://wa.me/9686611250?text=Hi! I'd like to book a flight with Skybound Travels.",
       "_blank"
     );
   };
